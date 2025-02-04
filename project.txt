@@ -1,1 +1,2 @@
 inshiya added navbar.
+added sidebar.
