@@ -4,3 +4,4 @@ commit 3
 commit 4
 bad commit
 commit 6
+commit 7
